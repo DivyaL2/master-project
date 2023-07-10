@@ -1,1 +1,5 @@
-my name is divya
+my name is divya l
+i study at reva university
+
+//git diff compares working dir with the staging dir
+//git diff --staged compare the stagging with the present and previous edits
